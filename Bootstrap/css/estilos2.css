@@ -1,0 +1,73 @@
+body{
+	background: url(../img/fondo.jpg) no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+
+
+.img-logo {
+	max-width: 100%;
+	margin-top: 8%;
+
+}
+
+.redes-sociales {
+	max-width: 11%;
+	margin-right: 5%;
+	margin-top: 20%;
+	float: right;
+}
+
+.cont-enc-logo {
+	border-radius: 20px 20px 0 0;
+}
+
+.btt-nav{
+	margin-top: 1%;
+}
+
+.btt-nav-sub {
+	margin-top: 3%;
+}
+
+.lead{
+	font-size: 16px;
+	text-align: justify;
+}
+
+.list-grupos{
+	background: rgba(197, 207, 253, 0.9);
+	border-radius: 0 0 20px 20px;
+}
+
+.coment-der {
+	background: rgba(197, 253, 251, 0.9);
+	border-radius: 20px 20px 0 0;
+}
+
+.noticia-num1 {
+	background: rgba(197, 253, 200, 0.9);
+	border-radius: 20px;
+}
+
+.noticia-num2 {
+	background: rgba(253, 197, 200, 0.9);
+	border-radius: 20px;
+}
+
+.noticia-num3 {
+	background: rgba(250, 226, 155, 0.9);
+	border-radius: 20px;
+}
+
+.barra-nav1, .barra-nav2{
+	background: rgba(78, 55, 230, 0.9);
+	border-radius: 0 0 20px 20px;
+}
+
+.encabezado-nav {
+	background: rgba(32, 6, 103, 0.9);
+	border-radius: 20px 20px 0 0;
+}
